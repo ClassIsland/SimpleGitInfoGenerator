@@ -8,7 +8,7 @@
 | --- | --- |
 | `CommitHash` | 提交 ID |
 | `Branch` | 当前分支 |
-| `Tag` ` | 最近的 Tag 名称 |
+| `Tag` | 最近的 Tag 名称 |
 
 ## 许可
 
